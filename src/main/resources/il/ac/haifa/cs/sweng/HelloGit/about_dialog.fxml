@@ -13,7 +13,7 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Lior Lih And Itay Margo" textAlignment="CENTER" textFill="RED">
+   <Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Lior Lih And Itay Margo" textAlignment="CENTER" textFill="GREEN">
       <font>
          <Font size="31.0" />
       </font>
